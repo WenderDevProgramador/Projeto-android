@@ -32,6 +32,8 @@ a.externo::after {
 header {
     background-image: linear-gradient(to bottom,var(--cor3),var(--cor5));
     padding: 30px;
+    
+
 }
 header > h1{
     color: white;
